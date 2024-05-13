@@ -1,2 +1,2 @@
 # pipelinetest
-issue test 5
+issue test 6
